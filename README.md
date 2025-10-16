@@ -2,7 +2,7 @@ You need to install the newest the [jit.ndi](https://github.com/pixsper/jit.ndi/
 
 Select NDI source (maybe you need to bang get source list).
 
-RGB are mapped to MID ch1, ch2, ch3 respectively.
+RGB are mapped to MIDI ch1, ch2, ch3 respectively.
 
 Select MIDI output by clicking the makenote object.
 
